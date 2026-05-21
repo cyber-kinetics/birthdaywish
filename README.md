@@ -1,1 +1,1 @@
-tghis is a birthday wisher
+this is a birthday wisher
